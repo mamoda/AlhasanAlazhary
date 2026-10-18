@@ -54,7 +54,7 @@ export default function WelcomeScreen({ onStart }: Props) {
           <div className="my-6 h-px w-24 mx-auto bg-gradient-to-r from-transparent via-azhar-gold to-transparent" />
 
           <p className="font-amiri text-lg sm:text-xl text-azhar-cream/95 leading-relaxed max-w-xl mx-auto">
-            مرحبًا بك أيها الطالب النجيب. هذا اختبارٌ في النحو والصرف يتكوّن من{' '}
+            مرحبًا بكم طلاب المعهد الحسن الأزهري. هذا اختبارٌ في النحو والصرف يتكوّن من{' '}
             <span className="text-azhar-gold font-bold">{TOTAL_QUESTIONS} سؤالًا</span>،
             اقرأ كل سؤالٍ بعنايةٍ واختر الإجابة الصحيحة. نسأل الله لك التوفيق والسداد.
           </p>
